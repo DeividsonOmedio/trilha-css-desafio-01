@@ -116,6 +116,7 @@ p {
 
 #transform-world {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./assets/images/woman-code.png), lightgray 50% / cover no-repeat;
+    background-attachment: fixed;
     height: 300px;
     flex-shrink: 0;
     display: flex;
